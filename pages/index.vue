@@ -5,7 +5,7 @@ export default {
   },
 
   beforeCreate() {
-    this.$router.push('chart2')
+    this.$router.push('chart')
   },
 
   render() {
